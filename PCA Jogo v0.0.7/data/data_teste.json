@@ -1,0 +1,20 @@
+{
+    "players": [
+        {
+            "nome": "teste",
+            "pontos": 50
+        },
+        {
+            "nome": "amorim",
+            "pontos": 50
+        },
+        {
+            "nome": "teste",
+            "pontos": 50
+        },
+        {
+            "nome": "teste",
+            "pontos": 50
+        }
+    ]
+}

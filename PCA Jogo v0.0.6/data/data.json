@@ -1,0 +1,12 @@
+{
+    "players": [
+        {
+            "nome": "professor",
+            "pontos": 5
+        },
+        {
+            "nome": "amorim",
+            "pontos": 19
+        }
+    ]
+}
